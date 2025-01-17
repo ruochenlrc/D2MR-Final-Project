@@ -16,10 +16,19 @@ This project investigates whether parents convey their field ability beliefs (FA
 
 # **File Tree**
 
-1\. Original Data *(parent_FABs.csv & child_FABs.csv)*
+Folders:
 
-2\. Analysis codes
+1.  Data *(incluidng a subforlder for raw data: parent_FABs.csv & child_FABs.csv)*
+2.  localonly
+3.  Source
+4.  Images
 
-3\. Results *(correlations and comparisons.csv, figures)*
+Files:
 
-4\. README.md
+1.  README.md
+2.  .gitignore
+3.  manuscript.qmd
+4.  references.bib
+5.  citation_style.csl
+
+README.md

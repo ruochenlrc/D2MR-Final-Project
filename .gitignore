@@ -1,10 +1,33 @@
+#default
 .Rproj.user
 .Rhistory
 .Rdata
 .httr-oauth
 .DS_Store
 .quarto
+
+#local only
 localonly/
+
+#media fiels
+.wav
+.mpg
+
+#compiled files
+.doc
+.pdf
+.png
+
+#meta-process files
 .log
-.temp
-TestIgnore.md
+.zip
+
+#pretty files & specialized files
+.ppt
+.pptx
+.jpg
+.jpeg
+.gif
+.bdl*
+.ear**
+.mgh
